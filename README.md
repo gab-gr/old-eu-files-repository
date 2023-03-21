@@ -11,14 +11,11 @@ dump for files i used for previous reporting, for my archival purposes and futur
   <li><a href="https://www.europarl.europa.eu/doceo/document/IMCO-AM-663259_EN.pdf">EP Amendments to f2f</a></li>
   <li><a href=""></a></li>
 </ol>
-<p><b>Industry, lobby PRs</b></p>
+<p><b>Industry, lobby, NGO PRs/comms/letters</b></p>
 <ol type="A">
   <li><a href="https://www.politico.eu/wp-content/uploads/2022/07/03/LettreOuverteInterbevCNIELPMEBorneaccordsNZ28062022.pdf">French meat and dairy lobbies anti NZ FTA PR</a></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li><a href="https://www.clientearth.org/media/2hgeipuo/joint-recommendations-on-am-re-agri-statistics-reform-5-10.pdf"</a>ClientEarth and other NGOs demands on pesticide data law - Nov 2021</li>
+  <li>.....</li>
   <li></li>
   <li></li>
  </ol>
@@ -28,3 +25,7 @@ dump for files i used for previous reporting, for my archival purposes and futur
   <li><a href="https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?reference=2018/0216(COD)&l=en">CAP SP parliament negotiators</a></li>
   <li>.....</li>
  </ol>
+ <p><b>Commission letters, replies, other documents</b></p>
+ <ol type="a">
+  <li><a href="https://www.env-health.org/wp-content/uploads/2021/11/Registered-letter_reply-to-13Oct-letter.pdf">Reply from DG Sante Commissioner to HEAL NGO re:glyphosate renewal - Nov 2021</a></li>
+  
